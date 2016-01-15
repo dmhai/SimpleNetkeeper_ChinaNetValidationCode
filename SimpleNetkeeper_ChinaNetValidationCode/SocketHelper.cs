@@ -16,7 +16,7 @@ namespace SimpleNetkeeper_ChinaNetValidationCode
         /// <summary>
         /// 用于备用的UDP端口号
         /// </summary>
-        public static int[] UDP_PORT_LIST = { 23333, 43256, 32560, 25601, 56014, 60140, 10384, 38403, 40366, 3669, 9788, 7882, 8827, 8273, 27373, 7373 };
+        public static int[] UDP_PORT_LIST = { 23333};
 
         /// <summary>
         /// 返回UDP实例
