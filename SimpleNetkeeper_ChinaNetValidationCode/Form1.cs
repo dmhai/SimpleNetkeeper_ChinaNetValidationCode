@@ -18,7 +18,10 @@ namespace SimpleNetkeeper_ChinaNetValidationCode
             InitializeComponent();
         }
 
-        private const string SERVER_ADDR = "202.100.170.77";
+        //TODO : 修改服务器地址
+        //新疆电信 ： 202.100.170.77
+        //陕西电信 ： 117.34.65.39
+        private const string SERVER_ADDR = "202.100.170.77"; 
 
         private const int SERVER_PORT = 8099;
 
